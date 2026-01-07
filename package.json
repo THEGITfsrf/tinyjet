@@ -1,0 +1,7 @@
+{
+  "name": "tinyjet-deploy",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "node tinyjet/index.js"
+  }
+}
